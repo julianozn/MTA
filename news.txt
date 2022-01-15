@@ -1,4 +1,10 @@
-﻿[0.1.3] - 2022-01-07
+﻿﻿[0.1.4] - 2022-01-15
+Adicionado Painel de Ajuda (F9)
+Modificação no menu agora mostra qual tecla
+usar para interagir com o objeto
+Reativado Localchat
+ 
+ [0.1.3] - 2022-01-07
 Adicionado Novo Inventario
 Adicionado Novo Painel de Grupo
 Adicionado Novos Zombie
